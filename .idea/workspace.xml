@@ -1,10 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cab39a03-7e5d-4d5b-9cb6-033f5634baca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/ccsunny/basicDataType/Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/ccsunny/basicDataType/DemoBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/ccsunny/email/SendHTMLEmail.java" afterDir="false" />
+    <list default="true" id="cab39a03-7e5d-4d5b-9cb6-033f5634baca" name="Default Changelist" comment="Merge branch 'master' of github.com:nico1988/java-basic&#10;&#10;Conflicts:&#10;&#9;.idea/encodings.xml&#10;&#9;.idea/misc.xml&#10;&#9;.idea/modules.xml">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/ccsunny/file/Demo2_FileMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/ccsunny/file/Demo5_FileMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/ccsunny/file/Demo_File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/ccsunny/properties/Demo01Properties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day16/META-INF/day16.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day16/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/META-INF/java_basic.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/bean/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/bean/Stu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/bean/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/bean/Toll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/bean/Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/character/CharacterDemo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/collections/Demo_Collections.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/exception/AgeOutOfBoundsException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/exception/Demo1_Exception.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/exception/Demo5_Throwable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/exception/Demo7_Finally.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/exception/Demo8_Exception.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/exception/Demo_Throw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/generic/Demo3_Generic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/generic/Demo4_Generic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/generic/Demo5_Generic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/generic/Generic_Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/generic/generic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/inte/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/inte/MammalInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/list/Demo102.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/list/Demo11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/list/Demo1_ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/list/Demo3_Linkedlist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/list/Demo4_Linkedlist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/list/ForDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/list/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/map/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/map/Demo3Iterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/map/Demo4MapEntry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/map/Demo4_MapEntry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/map/Demo5_HashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/map/Demo8_HashMapHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/map/Demo9_Hashtable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/map/DemoLinkedHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/map/DemoTreeMap$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/map/DemoTreeMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/map/Inter$inter2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/map/Inter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/map/MapDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/map/MapIteratorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/map/test/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/math/Demo_Math.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/number_math/MathDemo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/number_math/NumberDemo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/primitiveTypeDemo/Demo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/scanner/ScannerDemo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/set/HashSetDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/set/HashSetDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/set/LinkedHashSetDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/set/TreeSetDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/string/DemoStringBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/test/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/test/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/test/Test3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/test/Test4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/test/Test4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/transferListArray/ArrayListDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/transferListArray/ArrayListDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/transferListArray/DemoArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/cn/ccsunny/transferListArray/ListToArrayDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/static/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cn/ccsunny/math/Demo_Math.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/ccsunny/math/Demo_Math.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,24 +103,16 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="hkcrmdev-开发" type="feb32156:DbDataSourceImpl" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/ccsunny/email/SendHTMLEmail.java">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="19">
+              <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -98,10 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cn/ccsunny/generic/generic.java" />
-        <option value="$PROJECT_DIR$/src/cn/ccsunny/scanner/ScannerDemo01.java" />
-        <option value="$PROJECT_DIR$/src/cn/ccsunny/number_math/NumberDemo01.java" />
-        <option value="$PROJECT_DIR$/src/cn/ccsunny/number_math/MathDemo01.java" />
         <option value="$PROJECT_DIR$/src/cn/ccsunny/character/CharacterDemo01.java" />
         <option value="$PROJECT_DIR$/src/cn/ccsunny/list/ForDemo.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
@@ -149,6 +210,10 @@
         <option value="$PROJECT_DIR$/src/cn/ccsunny/basicDataType/DemoBasic.java" />
         <option value="$PROJECT_DIR$/src/cn/ccsunny/basicDataType/Character.java" />
         <option value="$PROJECT_DIR$/src/cn/ccsunny/email/SendHTMLEmail.java" />
+        <option value="$PROJECT_DIR$/.idea/.gitignore" />
+        <option value="$PROJECT_DIR$/src/system.properties" />
+        <option value="$PROJECT_DIR$/src/cn/ccsunny/properties/Demo01Properties.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -170,7 +235,7 @@
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <autoscrollToSource ProjectPane="false" />
-      <autoscrollFromSource ProjectPane="true" />
+      <autoscrollFromSource Scope="true" ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -183,21 +248,39 @@
             </path>
             <path>
               <item name="java_basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_basic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_basic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ccsunny" type="462c0819:PsiDirectoryNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="java_basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java_basic" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="java_basic" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java_basic" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java_basic" type="58d84e3e:PackageViewProjectNode" />
+              <item name="java_basic" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -212,10 +295,15 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="copyright.filetypes.ActionScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IT\J\java\heima49\java_basic" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -229,14 +317,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SendHTMLEmail">
-    <configuration name="Character" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.ccsunny.basicDataType.Character" />
+  <component name="RunManager" selected="Application.Demo01Properties">
+    <configuration name="CharacterDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ccsunny.character.CharacterDemo01" />
       <module name="java_basic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.ccsunny.basicDataType.*" />
+          <option name="PATTERN" value="cn.ccsunny.character.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,13 +332,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo8_Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.ccsunny.exception.Demo8_Exception" />
+    <configuration name="Demo01Properties" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ccsunny.properties.Demo01Properties" />
       <module name="java_basic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.ccsunny.exception.*" />
+          <option name="PATTERN" value="cn.ccsunny.properties.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,13 +346,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.ccsunny.basicDataType.DemoBasic" />
+    <configuration name="Demo5_FileMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.cn.ccsunny.file.Demo5_FileMethod" />
       <module name="java_basic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.ccsunny.basicDataType.*" />
+          <option name="PATTERN" value="src.cn.ccsunny.file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,27 +360,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo_Math" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.ccsunny.math.Demo_Math" />
+    <configuration name="Demo_File" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.cn.ccsunny.file.Demo_File" />
       <module name="java_basic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.ccsunny.math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SendHTMLEmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.ccsunny.email.SendHTMLEmail" />
-      <module name="java_basic" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.ccsunny.email.*" />
+          <option name="PATTERN" value="src.cn.ccsunny.file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -322,11 +396,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SendHTMLEmail" />
-        <item itemvalue="Application.Character" />
-        <item itemvalue="Application.DemoBasic" />
-        <item itemvalue="Application.Demo_Math" />
-        <item itemvalue="Application.Demo8_Exception" />
+        <item itemvalue="Application.Demo01Properties" />
+        <item itemvalue="Application.CharacterDemo01" />
+        <item itemvalue="Application.Demo5_FileMethod" />
+        <item itemvalue="Application.Demo_File" />
       </list>
     </recent_temporary>
   </component>
@@ -378,6 +451,8 @@
       <workItem from="1550399749227" duration="679000" />
       <workItem from="1550411482282" duration="2036000" />
       <workItem from="1550452026430" duration="2252000" />
+      <workItem from="1550588041373" duration="547000" />
+      <workItem from="1550590311588" duration="1640000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1550216609379</created>
@@ -421,11 +496,18 @@
       <option name="project" value="LOCAL" />
       <updated>1550366830069</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="math">
+      <created>1550588228200</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1550588228200</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131660000" />
+    <option name="totallyTimeSpent" value="133847000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -440,8 +522,8 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.67367256" visible="true" weight="0.20235546" />
-      <window_info id="Structure" order="1" sideWeight="0.32632744" side_tool="true" visible="true" weight="0.20235546" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6712538" visible="true" weight="0.13704497" />
+      <window_info id="Structure" order="1" sideWeight="0.32874617" side_tool="true" visible="true" weight="0.13704497" />
       <window_info id="JRebel" order="2" sideWeight="0.50553095" side_tool="true" weight="0.10546038" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -449,25 +531,25 @@
       <window_info anchor="bottom" id="Database Console" order="0" weight="0.22345133" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32964602" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49304068" weight="0.24778761" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49197003" weight="0.24778761" />
       <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49946466" weight="0.39933628" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32978722" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32964602" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49892932" weight="0.27654868" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5069593" side_tool="true" weight="0.20353982" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.498394" visible="true" weight="0.27654868" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.501606" side_tool="true" visible="true" weight="0.27654868" />
       <window_info anchor="bottom" id="JRebel Executor" order="13" weight="0.2079646" />
-      <window_info active="true" anchor="bottom" id="Messages" order="14" sideWeight="0.49357602" visible="true" weight="0.24336283" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49089935" weight="0.24336283" />
       <window_info anchor="bottom" id="JRebel Console" order="15" sideWeight="0.501606" side_tool="true" weight="0.38716814" />
       <window_info anchor="bottom" id="Problems" order="16" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.15845825" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info active="true" anchor="right" id="Database" order="4" visible="true" weight="0.14346895" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.14346895" />
       <window_info anchor="right" id="Maven" order="5" weight="0.32976446" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="7" side_tool="true" weight="0.32976446" />
@@ -481,7 +563,8 @@
     <MESSAGE value="map" />
     <MESSAGE value="exception demo" />
     <MESSAGE value="math" />
-    <option name="LAST_COMMIT_MESSAGE" value="math" />
+    <MESSAGE value="Merge branch 'master' of github.com:nico1988/java-basic&#10;&#10;Conflicts:&#10;&#9;.idea/encodings.xml&#10;&#9;.idea/misc.xml&#10;&#9;.idea/modules.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of github.com:nico1988/java-basic&#10;&#10;Conflicts:&#10;&#9;.idea/encodings.xml&#10;&#9;.idea/misc.xml&#10;&#9;.idea/modules.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -500,92 +583,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/software/JAVA/jdk1.8.0_151/jre/lib/rt.jar!/java/util/HashMap.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="887" lean-forward="true" selection-start-line="887" selection-end-line="887" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/ccsunny/map/Demo4_MapEntry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="57" lean-forward="true" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/ccsunny/bean/Stu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding>
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/ccsunny/bean/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="40" column="40" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
-          <folding>
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#1095#1096#0" expanded="true" />
-            <element signature="e#1141#1142#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/software/JAVA/jdk1.8.0_151/src.zip!/java/util/AbstractMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="550" column="44" selection-start-line="550" selection-start-column="31" selection-end-line="550" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/software/JAVA/jdk1.8.0_151/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="819" column="16" selection-start-line="819" selection-start-column="16" selection-end-line="819" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/ccsunny/map/Demo5_HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/ccsunny/string/DemoStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/ccsunny/map/DemoLinkedHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/ccsunny/bean/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/software/JAVA/jdk1.8.0_151/src.zip!/java/util/TreeMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
@@ -923,13 +920,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/ccsunny/basicDataType/DemoBasic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ccsunny/basicDataType/DemoBasic.java" />
     <entry file="jar://D:/software/JAVA/jdk1.8.0_151/src.zip!/java/lang/Character.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -944,13 +935,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/ccsunny/basicDataType/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ccsunny/basicDataType/Character.java" />
     <entry file="jar://D:/software/JAVA/jdk1.8.0_151/jre/lib/rt.jar!/com/sun/xml/internal/messaging/saaj/packaging/mime/MessagingException.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -958,13 +943,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/ccsunny/email/SendHTMLEmail.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/ccsunny/email/SendHTMLEmail.java" />
+    <entry file="file://$PROJECT_DIR$/.idea/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/src/static/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ccsunny/file/Demo2_FileMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="361">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ccsunny/file/Demo_File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="23" column="44" lean-forward="true" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ccsunny/file/Demo5_FileMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ccsunny/character/CharacterDemo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/ccsunny/properties/Demo01Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_basic.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
         </state>
       </provider>
     </entry>
